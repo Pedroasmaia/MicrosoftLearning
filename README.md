@@ -19,9 +19,8 @@
 
 ## :rocket: Roteiros ##
 
-The following tools were used in this project:
-
-- [Python](https://docs.microsoft.com/pt-br/learn/paths/beginner-python/)
+- [Python para iniciantes](https://docs.microsoft.com/pt-br/learn/paths/beginner-python/)
+  - [Arquivos](/Python%20para%20iniciantes/)
 
 ## :white_check_mark: Certificados ##
 
