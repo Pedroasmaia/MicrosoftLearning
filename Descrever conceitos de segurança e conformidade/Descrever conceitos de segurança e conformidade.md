@@ -24,7 +24,7 @@ Diagrama que mostra as responsabilidades de acordo com o modelo de serviço cont
 
 <center>
 <figure>
-<img src="https://github.com/Pedroasmaia/microsoftlearning/blob/23835fd0d025302a07c1d1216e65b7a242a7275c/Descrever conceitos de segurança e conformidade/2-defense-depth.png">
+<img src="https://github.com/Pedroasmaia/microsoftlearning/blob/b385f1d366c82f698e752e065972c76edd1e97e3/Descrever conceitos de segurança e conformidade/3-shared-responsibility-model.jpg">
 <figcaption>Imagem retirada da documentação, traduzida pelo autor do resumo.</figcaption>
 </figure>
 </center>
