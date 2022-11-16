@@ -9,6 +9,7 @@
   - [Confiança Zero](#confiança-zero)
     - [Princípios](#princípios)
     - [Seis pilares fundamentais](#seis-pilares-fundamentais)
+  - [Criptografia e Hash](#criptografia-e-hash)
 
 ## Modelo de responsabilidade compartilhada
 
@@ -23,7 +24,7 @@ Diagrama que mostra as responsabilidades de acordo com o modelo de serviço cont
 
 <center>
 <figure>
-<img src="./3-shared-responsibility-model.jpg">
+<img src="https://github.com/Pedroasmaia/microsoftlearning/blob/23835fd0d025302a07c1d1216e65b7a242a7275c/Descrever conceitos de segurança e conformidade/2-defense-depth.png">
 <figcaption>Imagem retirada da documentação, traduzida pelo autor do resumo.</figcaption>
 </figure>
 </center>
@@ -52,7 +53,7 @@ Essas camadas podem incluir:
 
 <center>
 <figure>
-<img src="./2-defense-depth.png">
+<img src="https://github.com/Pedroasmaia/microsoftlearning/blob/23835fd0d025302a07c1d1216e65b7a242a7275c/Descrever conceitos de segurança e conformidade/2-defense-depth.png">
 <figcaption>Imagem retirada da documentação.</figcaption>
 </figure>
 </center>
@@ -61,7 +62,7 @@ Essas camadas podem incluir:
 
 <center>
 <figure>
-<img src="./4-confidentiality-integrity-availability.png">
+<img src="https://github.com/Pedroasmaia/microsoftlearning/blob/23835fd0d025302a07c1d1216e65b7a242a7275c/Descrever conceitos de segurança e conformidade/4-confidentiality-integrity-availability.png">
 <figcaption>Imagem retirada da documentação.</figcaption>
 </figure>
 </center>
@@ -99,7 +100,9 @@ Digamos que essa frase é o norte dessa politica de segurança, que trata tudo q
 
 <center>
 <figure>
-<img src="./2-zero-trust-pillars-v2.png">
+<img src="https://github.com/Pedroasmaia/microsoftlearning/blob/23835fd0d025302a07c1d1216e65b7a242a7275c/Descrever conceitos de segurança e conformidade/2-zero-trust-pillars-v2.png">
 <figcaption>Imagem retirada da documentação.</figcaption>
 </figure>
 </center>
+
+## Criptografia e Hash
