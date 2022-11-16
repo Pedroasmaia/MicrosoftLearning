@@ -21,6 +21,8 @@
 
 - [Python para iniciantes](https://docs.microsoft.com/pt-br/learn/paths/beginner-python/)
   - [Arquivos](/Python%20para%20iniciantes/)
+- [Conceitos básicos de segurança, conformidade e identidade da Microsoft: descrever as funcionalidades das soluções de segurança da Microsoft](https://learn.microsoft.com/pt-br/training/paths/describe-capabilities-of-microsoft-security-solutions/)
+  - [Arquivos](./Conceitos%20basicos%20de%20Seguran%C3%A7a/Content.md)
 
 ## :white_check_mark: Certificados ##
 
