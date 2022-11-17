@@ -10,6 +10,10 @@
     - [Princípios](#princípios)
     - [Seis pilares fundamentais](#seis-pilares-fundamentais)
   - [Criptografia e Hash](#criptografia-e-hash)
+    - [Criptografia para Dados em Repouso](#criptografia-para-dados-em-repouso)
+    - [Criptografia TLS](#criptografia-tls)
+    - [Hash](#hash)
+  - [Conceitos de conformidade:](#conceitos-de-conformidade)
 
 ## Modelo de responsabilidade compartilhada
 
@@ -106,3 +110,43 @@ Digamos que essa frase é o norte dessa politica de segurança, que trata tudo q
 </center>
 
 ## Criptografia e Hash
+
+**Criptografia** é uma forma de tornar dados confidenciais ou valiosos ilegíveis para pessoas não autorizadas. E para ter acesso a esses dados criptografados precisamos de descriptografar usando uma **Chave Secreta**. Existem duas formas do processo de criptografia acontecer:
+
+- **Criptografia simétrica:** Utiliza a mesma chave(padrão) para criptografar e descriptografar os dados.
+- **Criptografia assimétrica:** Usa um par de chaves, publicas e privadas. Você precisa das duas chaves para poder descriptografar o que foi enviado.
+- Esse tipo é usado no protocolo HTTPS e soluções de assinatura eletrônica.
+
+<center>
+<figure>
+<img scr="https://learn.microsoft.com/pt-br/training/wwl-sci/describe-security-concepts-methodologies/media/6-encryption.png"></img>
+<figcaption>Imagem retirada da documentação.</figcaption>
+</figure>
+</center>
+
+### Criptografia para Dados em Repouso
+
+Dados inativos são armazenados em dispositivos físicos, indiferente de como eles estão armazenados, é importante criptografar para garantir que eles não sejam lidos sem as chaves necessarias para descriptografá-los.
+
+### Criptografia TLS
+
+É criptografar os dados que se movem entre camadas da rede, como pela internet ou rede privada. HTTPs é um exemplo, ele nos protege de observadores externos em nossa rede.
+
+### Hash
+
+Hash é um identificador exclusivo de um dado. O Algoritimo converto o texto em um valor único:
+
+```sha1
+senha = deba0172511d5701d964202f4e5de698d5e07c67
+```
+
+Normalmente é usado para armazenar senhas, e diferente da criptografia, não é descriptografado. Os Crackers usam *Ataques de dicionario* para descobrir o hash e assim por consequencia, a senha do usuário. Por isso normalmente as senhas contem um "sal" que é a adição de um valor aleatório de comprimento fixo.
+
+## Conceitos de conformidade:
+
+- **Residencias de Dados:** São os locais físicos onde os dados podem ser armazenado e como podem ser tratados e/ou transferidos.
+- **Soberania de Dados:** Os dados estão sujeitos a às leis e regulamentos de país/região em que são tratados, mantidos e/ou coletados. Podendo ser aplicadas diferentes leis em se coletado em um e tratado em outro.
+- **Privacidade de Dados:** Fornecer Aviso e ser transparente sobre a coleta, tratamento e compartilhamento, agindo sempre de acordo com as leis vigentes.
+
+
+
