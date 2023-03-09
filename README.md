@@ -6,8 +6,6 @@
   <a href="#white_check_mark-Certificados">Certificados</a>
 </p>
 
-<br>
-
 ## :rocket: Roteiros ##
 
 - [Python para iniciantes](https://docs.microsoft.com/pt-br/learn/paths/beginner-python/)
