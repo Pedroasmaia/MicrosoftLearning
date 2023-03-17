@@ -10,6 +10,10 @@
 
 - [Python para iniciantes](https://docs.microsoft.com/pt-br/learn/paths/beginner-python/)
 - [Dê seus primeiros passos com o C#](https://learn.microsoft.com/pt-br/training/paths/get-started-c-sharp-part-1/)
+- [AZ-104: pré-requisitos para administradores do Azure](https://learn.microsoft.com/pt-br/training/paths/az-104-administrator-prerequisites/)
+
+
+
 
 ## :white_check_mark: Certificados ##
 
