@@ -1,0 +1,7 @@
+az vm restart -g meuGrupoDeRecursos -n minhaVM
+
+#Para achar comandos pode usar o az find
+az find blob
+
+#Se souber o nome do comando o argumento --help pode ser usado para obter mais informações
+az storage blob --help
