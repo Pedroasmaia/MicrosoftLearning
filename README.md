@@ -6,16 +6,18 @@
   <a href="#white_check_mark-Certificados">Certificados</a>
 </p>
 
-## :rocket: Roteiros ##
+## :rocket: Roteiros
 
 - [Python para iniciantes](https://docs.microsoft.com/pt-br/learn/paths/beginner-python/)
-- [Dê seus primeiros passos com o C#](https://learn.microsoft.com/pt-br/training/paths/get-started-c-sharp-part-1/)
+
+- Introdução ao C#
+  - [1 - Escreva seu primeiro código usando C#](https://learn.microsoft.com/pt-br/training/paths/get-started-c-sharp-part-1/)
+  - [2- Criar e executar aplicativos de console C# simples](https://learn.microsoft.com/pt-br/training/paths/get-started-c-sharp-part-2/)
+  - [3- Adicionar lógica a aplicativos de console C#](https://learn.microsoft.com/pt-br/training/paths/get-started-c-sharp-part-3/)
 - [AZ-104: pré-requisitos para administradores do Azure](https://learn.microsoft.com/pt-br/training/paths/az-104-administrator-prerequisites/)
+- [Adicionar lógica a aplicativos de console C#](https://learn.microsoft.com/pt-br/training/paths/get-started-c-sharp-part-3/)
 
-
-
-
-## :white_check_mark: Certificados ##
+## :white_check_mark: Certificados
 
 - [AZ-900 | Azure Fundamentals](https://www.credly.com/badges/840e211b-0728-43a9-a88d-a63fb39364ab?source=linked_in_profile)
 - [SC-900 | Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/bf7334a7-72d4-433e-8f5b-8869f42cafa7/linked_in_profile)
